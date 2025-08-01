@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "ios": "cpp",
+    "istream": "cpp",
+    "iostream": "cpp",
+    "iomanip": "cpp",
+    "string": "cpp",
+    "ostream": "cpp"
+  },
+  "python.defaultInterpreterPath": "python3"
+}
